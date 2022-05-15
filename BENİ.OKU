@@ -1,0 +1,5 @@
+Baştan başlamak için bunları yapman lazım. 
+
+git reset --hard 0dd514ef656d60ce0d5e86abbf5e7106ee1ad193 on packages/apps/Bluetooth
+
+git reset --hard 732abf170f06fd6895b862231cfca3052cd17ce6 on system/bt
